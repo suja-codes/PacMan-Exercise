@@ -2,12 +2,23 @@
 
 <h4 align="center">Simulation of PacMan moving across the screen and reversing direction.</h4>
 <br>
+
+https://user-images.githubusercontent.com/104742558/183478357-3b8d89ff-6729-4852-951a-f6b2ccd179af.mp4
+
+<br>
+<br>
+<br>
+
 <div  align="center" id="top"> 
 <img src ="./PacMan1.png" width ='180'/>
 <img src ="./PacMan2.png" width ='180'/>
 <img src ="./PacMan3.png" width ='180'/>
 <img src ="./PacMan4.png" width ='180'/>
 </div>
+<br>
+<br> 
+
+*[Click to visit the github page for this repository](https://suja-codes.github.io/PacMan-Exercise/)*
 
 ### Description 
 
